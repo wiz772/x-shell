@@ -1,4 +1,4 @@
-# Mini Python Shell
+# X-Shell
 
 A simple custom shell built in Python that supports basic commands, history, and error handling.  
 
